@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Guess_the_number
-Guessing
-=======
-# Guess-random-number
->>>>>>> 9e26162 (Initial commit)
-=======
-# Guess-random-number
->>>>>>> 488775e (Initial commit)
+# Learning projects
+
+## Projects
+
+* [Project 0. Number guessing algorithm](https://github.com/Rozenheart/Guess_the_number/tree/mainn/Guess/project_0)
+
