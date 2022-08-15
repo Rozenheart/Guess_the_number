@@ -29,6 +29,18 @@ To calculate the average number of guessing a number, it is necessary to write a
 ### Data info
 The program will use the numpy module.
 
+Project content:
+
+* [game.py](https://github.com/Rozenheart/Guess_the_number/blob/mainn/Guess/project_0/game.py). Interactive program (game). number guessing 
+
+* [game_v2.py](https://github.com/Rozenheart/Guess_the_number/blob/mainn/Guess/project_0/game_v2.py). This project.
+
+* [game.ipynb](https://github.com/Rozenheart/Guess_the_number/blob/mainn/Guess/project_0/game.ipynb). Jupyter discription of the project
+
+* [requirements.txt](https://github.com/Rozenheart/Guess_the_number/blob/mainn/Guess/project_0/requirements.txt). Code reproducibility data
+
+* [README.md](https://github.com/Rozenheart/Guess_the_number/blob/mainn/Guess/project_0/README.md). That doc
+
 :arrow_up:[To Head](https://github.com/Rozenheart/Guess_the_number/tree/mainn/Guess/project_0/README.md#Head)
 
 ### Steps
